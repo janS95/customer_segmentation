@@ -5,7 +5,7 @@
 * Explored the distribution of the features
 * Calculated the correlation matrix
 * Normalized the dataset
-* Used K-Means clustering algorithm and elbow method to define the amount of clusters (7)
+* Used K-Means clustering algorithm and elbow method to define the amount of clusters
 * Applied PCA for visualizing the dataset
 
 ## Results:
