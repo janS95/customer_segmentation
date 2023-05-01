@@ -10,10 +10,9 @@
 
 ## Results:
 
-* 3 interesting clusters:
-  * The first cluster are customers who either don't have much money or have a banking account at another bank and use their account only as a second account. They are also careful and pay a decent amount of their loans as a full payment.
-  * The second cluster are customers who don't care to pay much in interest charges as they only pay about 4 % in full payment. Those customers are very lucrative for the bank.
-  * The third cluster are customers which could be called VIP. They have a very high credit limit and spend very much money. The bank could target those customers to further increase their spending habit.
+ * Inside the first cluster there are customers who either don't have much money or have a banking account at another bank and use their account only as a second account. They are also careful and pay a decent amount of their loans as a full payment.
+ * Inside the second cluster there are customers who don't care to pay much in interest charges as they only pay about 4 % in full payment. Those customers are very lucrative for the bank.
+ * Inside the third cluster there are customers which could be called VIP. They have a very high credit limit and spend very much money. The bank could target those customers to further increase their spending habit.
 
 | Cluster No. | Balance | PRC of full payment | Cash Advance | Purchases | Credit Limit |
 | --- | --- | --- | --- | --- | --- |
